@@ -1,0 +1,1 @@
+aimax.osm.reader.WayNodeElementProcessor

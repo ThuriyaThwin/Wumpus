@@ -1,0 +1,3 @@
+aimax.osm.reader.FilteringOsmReader$FilteringBuilderProxy
+aimax.osm.reader.FilteringOsmReader
+aimax.osm.reader.FilteringOsmReader$BBBuilderProxy

@@ -1,0 +1,2 @@
+aima.core.environment.vacuum.VacuumWorldFunctions
+aima.core.environment.vacuum.VacuumWorldFunctions$VacuumWorldResults

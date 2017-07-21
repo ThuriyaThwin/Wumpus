@@ -1,0 +1,2 @@
+aima.core.search.local.SimulatedAnnealingSearch$SearchOutcome
+aima.core.search.local.SimulatedAnnealingSearch

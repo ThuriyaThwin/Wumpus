@@ -1,0 +1,2 @@
+aimax.osm.gui.fx.applications.ExtendedRouteFindingAgentOsmApp
+aimax.osm.gui.fx.applications.ExtendedRouteFindingAgentOsmApp$SDMapEntityRenderer

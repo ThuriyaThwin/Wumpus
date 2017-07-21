@@ -1,0 +1,4 @@
+aimax.osm.viewer.DefaultEntityRenderer
+aimax.osm.viewer.DefaultEntityRenderer$NameInfo
+aimax.osm.viewer.DefaultEntityRenderer$MapAreaComparator
+aimax.osm.viewer.DefaultEntityRenderer$MapEntityComparator

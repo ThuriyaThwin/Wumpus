@@ -1,0 +1,3 @@
+aima.core.environment.eightpuzzle.EightPuzzleFunctions$MisplacedTileHeuristicFunction
+aima.core.environment.eightpuzzle.EightPuzzleFunctions$ManhattanHeuristicFunction
+aima.core.environment.eightpuzzle.EightPuzzleFunctions

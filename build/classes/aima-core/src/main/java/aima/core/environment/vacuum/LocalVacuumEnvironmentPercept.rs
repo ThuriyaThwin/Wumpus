@@ -1,0 +1,1 @@
+aima.core.environment.vacuum.LocalVacuumEnvironmentPercept

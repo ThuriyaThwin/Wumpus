@@ -1,0 +1,12 @@
+aima.test.core.unit.environment.wumpusworld.WumpusKnowledgeBaseTest$2
+aima.test.core.unit.environment.wumpusworld.WumpusKnowledgeBaseTest$1
+aima.test.core.unit.environment.wumpusworld.WumpusKnowledgeBaseTest$4
+aima.test.core.unit.environment.wumpusworld.WumpusKnowledgeBaseTest$3
+aima.test.core.unit.environment.wumpusworld.WumpusKnowledgeBaseTest
+aima.test.core.unit.environment.wumpusworld.WumpusKnowledgeBaseTest$9
+aima.test.core.unit.environment.wumpusworld.WumpusKnowledgeBaseTest$11
+aima.test.core.unit.environment.wumpusworld.WumpusKnowledgeBaseTest$10
+aima.test.core.unit.environment.wumpusworld.WumpusKnowledgeBaseTest$6
+aima.test.core.unit.environment.wumpusworld.WumpusKnowledgeBaseTest$5
+aima.test.core.unit.environment.wumpusworld.WumpusKnowledgeBaseTest$8
+aima.test.core.unit.environment.wumpusworld.WumpusKnowledgeBaseTest$7

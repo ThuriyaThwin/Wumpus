@@ -1,0 +1,2 @@
+aima.test.core.performance.logic.fol.inference.FOLTFMResolutionPerformance$RegressionFOLTFMResolutionTracer
+aima.test.core.performance.logic.fol.inference.FOLTFMResolutionPerformance
